@@ -50,3 +50,7 @@ Güçlü HTTP saldırı testleri için oluşturulan genişletilmiş bir flood ar
 - Bu script, test işlemlerinden en iyi sonuçları elde etmek amacıyla kapsamlı bir şekilde tasarlanmış, derlenmiş ve kodlanmıştır. Ana script ve ilgili tüm dosyalar, kontrolsüz düzenleme ve değiştirmelere karşı gizlilik koruması içermektedir.
 - Bu script, yoğun kullanım veya denemeler sırasında yanlış uygulandığında ciddi zararlara yol açabilecek yüksek etki potansiyeline sahiptir.
 - Bu script, herhangi bir devlet kurumuna ait sistemler üzerinde kullanıldığında, tüm yasal sorumluluk tamamen kullanıcıya aittir.
+
+## Teşekkür 🖤
+
+- USDT (ERC20) > 0xFc56338a5c6B28671A8962f52666F8F7eE6CBbAF
