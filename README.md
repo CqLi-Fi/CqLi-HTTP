@@ -43,3 +43,10 @@ Güçlü HTTP saldırı testleri için oluşturulan genişletilmiş bir flood ar
 ```bash
   Test saldırısının başlamasını bekleyin.
 ```
+
+## Uyarılar ⚠️
+
+- Bu script, yalnızca test amaçlı ortamlar için tasarlanmıştır. Onay alınmamış herhangi bir sistemde kullanımı tamamen kullanıcının sorumluluğundadır.
+- Bu script, test işlemlerinden en iyi sonuçları elde etmek amacıyla kapsamlı bir şekilde tasarlanmış, derlenmiş ve kodlanmıştır. Ana script ve ilgili tüm dosyalar, kontrolsüz düzenleme ve değiştirmelere karşı gizlilik koruması içermektedir.
+- Bu script, yoğun kullanım veya denemeler sırasında yanlış uygulandığında ciddi zararlara yol açabilecek yüksek etki potansiyeline sahiptir.
+- Bu script, herhangi bir devlet kurumuna ait sistemler üzerinde kullanıldığında, tüm yasal sorumluluk tamamen kullanıcıya aittir.
