@@ -14,3 +14,5 @@ Güçlü HTTP saldırı testleri için oluşturulan genişletilmiş bir flood ar
 - SSL sınamaları ve manipüle edilmiş sertifika denemelerini etkin bir şekilde tespit ve analiz etme kapasitesi.
 - Standart ve sürekli güncellenen header referansları ile user-agent içeriklerinin kapsamlı analizi ve yönetimi.
 - WAF ve benzeri güvenlik korumalarını algılama ve bunlardan etkin bir şekilde kaçınma yeteneği sağlayan gelişmiş refleks mekanizmaları.
+- RestAPI bağlantılarına yönelik hedef odaklı ve yanıltıcı istek gönderimleriyle etkili test ve analiz yetkinlikleri.
+- SQL sorgu isteklerinin karmaşık bir şekilde optimize edilerek sunucuya çözümlendirilmesi ve yüksek yoğunluklu yük testi oluşturulması.
