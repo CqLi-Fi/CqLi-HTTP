@@ -16,3 +16,16 @@ Güçlü HTTP saldırı testleri için oluşturulan genişletilmiş bir flood ar
 - WAF ve benzeri güvenlik korumalarını algılama ve bunlardan etkin bir şekilde kaçınma yeteneği sağlayan gelişmiş refleks mekanizmaları.
 - RestAPI bağlantılarına yönelik hedef odaklı ve yanıltıcı istek gönderimleriyle etkili test ve analiz yetkinlikleri.
 - SQL sorgu isteklerinin karmaşık bir şekilde optimize edilerek sunucuya çözümlendirilmesi ve yüksek yoğunluklu yük testi oluşturulması.
+
+## Başlangıç
+
+```bash
+  git clone https://github.com/CqLi-Fi/CqLi-HTTP.git
+```
+```bash
+  pip install aiohttp beautifulsoup4 tqdm rich faker lxml
+```
+
+```bash
+  python CqLi-HTTP.py
+```
