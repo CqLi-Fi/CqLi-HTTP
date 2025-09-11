@@ -4,7 +4,7 @@
 
 Güçlü HTTP saldırı testleri için oluşturulan genişletilmiş bir flood aracıdır.
 
-![Logo](https://i.ibb.co/1G14ZFLm/cqli-http.png)
+![Logo](https://i.ibb.co/3mGcpjNd/cqli-http.jpg)
 
 ## Özellikler
 
