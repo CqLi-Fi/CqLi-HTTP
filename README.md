@@ -2,6 +2,7 @@
 # CqLi-HTTP
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ![PyPI - Python Version](https://img.shields.io/badge/Python-3.7%2B-blue)
+![Message](https://img.shields.io/badge/CqLi-HTTPv0.1-8A2BE2)
 
 Güçlü HTTP saldırı testleri için oluşturulan genişletilmiş bir flood aracıdır.
 
