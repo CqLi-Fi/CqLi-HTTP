@@ -29,3 +29,17 @@ Güçlü HTTP saldırı testleri için oluşturulan genişletilmiş bir flood ar
 ```bash
   python CqLi-HTTP.py
 ```
+
+## Kullanımı
+
+```bash
+  Hedef URL'yi girin (örn: http://test.com veya https://test.com)
+```
+
+```bash
+  Eşzamanlı istek sayısını girin (50-2000) / Önerilen "1200"
+```
+
+```bash
+  Test saldırısının başlamasını bekleyin.
+```
