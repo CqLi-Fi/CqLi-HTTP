@@ -1,2 +1,5 @@
+
 # CqLi-HTTP
-Güçlü HTTP saldırı testleri için oluşturulan genişletilmiş bir flood aracıdır. 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+Güçlü HTTP saldırı testleri için oluşturulan genişletilmiş bir flood aracıdır.
