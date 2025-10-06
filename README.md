@@ -23,7 +23,7 @@ Güçlü HTTP saldırı testleri için oluşturulan genişletilmiş bir flood ar
   git clone https://github.com/CqLi-Fi/CqLi-HTTP.git
 ```
 ```bash
-  pip install aiohttp beautifulsoup4 tqdm rich faker lxml
+  pip install aiohttp beautifulsoup4 tqdm rich faker lxml execnet
 ```
 
 ```bash
